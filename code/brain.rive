@@ -1,0 +1,10 @@
+// Chatbot's brain
+! version = 2.0
+
++ #
+* <star> > <bot num> => pick a lower number
+* <star> < <bot num> => pick a higher number
+* <star> == <bot num> => you got it!
+
++ *
+- I only accept numbers
